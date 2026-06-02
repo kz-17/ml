@@ -1,0 +1,8 @@
+語言模型可以應用在許多實際場景中。
+機器翻譯是自然語言處理的重要應用。
+The conference will take place next week.
+She is working on a new research project.
+The garden is full of beautiful flowers.
+He enjoys playing chess in his free time.
+Technology continues to advance at a rapid pace.
+The restaurant received excellent reviews from customers.
