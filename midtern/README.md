@@ -1,8 +1,6 @@
 ---
 title: "基於電腦視覺之手勢辨識與物聯網控制系統"
 subtitle: "整合 MediaPipe、PyTorch 與 ESP32 之智慧控制實作"
-author: "智慧型系統整合實務"
-date: "2026 年 6 月"
 ---
 
 # 摘要
